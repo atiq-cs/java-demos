@@ -1,2 +1,3 @@
-# java-spring-demos
+# Java Spring Demos
 Spring Demos: java, mvc
+
